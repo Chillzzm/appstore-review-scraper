@@ -1,6 +1,6 @@
 # App Store Review Scraper
 
-一个面向 Codex / WorkBuddy 的 App Store 评论研究 Skill。它可以抓取一个目标 App 与多个竞品在指定国家或地区的公开评分与文字评论，并把结果整理成可审计的数据集，进一步支持 JTBD、痛点、未满足需求和产品机会分析。
+一个面向 Codex / WorkBuddy / Claude Code 等Agent 的 App Store 评论研究 Skill。它可以抓取一个目标 App 与多个竞品在指定国家或地区的公开评分与文字评论，并把结果整理成可审计的数据集，进一步支持 JTBD、痛点、未满足需求和产品机会分析。
 
 ## 能做什么
 
@@ -20,7 +20,7 @@
 
 ## 安装为 Skill
 
-将仓库克隆到你使用的 Skill 目录。例如：
+将github链接直接发给你的agent给你安装或者将仓库克隆到你使用的 Skill 目录。例如：
 
 ```bash
 # Codex
@@ -28,6 +28,10 @@ git clone https://github.com/Chillzzm/appstore-review-scraper.git \
   ~/.codex/skills/appstore-review-scraper
 
 # WorkBuddy
+git clone https://github.com/Chillzzm/appstore-review-scraper.git \
+  ~/.workbuddy/skills/appstore-review-scraper
+
+# Claude Code
 git clone https://github.com/Chillzzm/appstore-review-scraper.git \
   ~/.workbuddy/skills/appstore-review-scraper
 ```
