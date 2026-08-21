@@ -181,3 +181,7 @@ python3 -m py_compile scripts/scrape.py scripts/prepare_analysis.py
 - [App Store Connect Customer Reviews API](https://developer.apple.com/documentation/appstoreconnectapi/get-v1-apps-_id_-customerreviews)
 
 请在符合 Apple 条款、适用法律和你的研究授权范围内使用本项目。
+
+## License
+
+[MIT](LICENSE)
