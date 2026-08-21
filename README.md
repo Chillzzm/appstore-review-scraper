@@ -20,7 +20,7 @@
 
 ## 安装为 Skill
 
-将github链接直接发给你的agent给你安装或者将仓库克隆到你使用的 Skill 目录。例如：
+将 github 链接直接发给你的 agent 给你安装或者将仓库克隆到你使用的 Skill 目录。例如：
 
 ```bash
 # Codex
